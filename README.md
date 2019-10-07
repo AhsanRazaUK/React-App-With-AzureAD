@@ -3,7 +3,7 @@
 ### Prerequisites
 
 *	Visual Studio (I’ve used 2019)
-*	Microsoft Azure Account (Free sign on if you don’t have one)
+*	Microsoft Azure Account (Free sign on (https://azure.microsoft.com/en-us/free/) if you don’t have one)
 *	Basic understanding of React (In case you are newbie)
 
 ### Use this repository
@@ -22,5 +22,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* https://github.com/syncweek-react-aad/react-aad
+* https://www.npmjs.com/package/react-aad-msal
 
