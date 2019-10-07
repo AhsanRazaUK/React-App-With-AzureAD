@@ -1,7 +1,16 @@
 {
+  
   "name": "ReactWithAzureAD",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "react app with Azure ad authentication",
   "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AhsanRazaUK/React-App-With-AzureAD"
+  },
+  "author": "Ahsan Raza",
+  "contributors": [],
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.10.2",
     "bootstrap": "^4.3.1",
