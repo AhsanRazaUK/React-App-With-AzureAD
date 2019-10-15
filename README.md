@@ -12,6 +12,10 @@
 git clone https://github.com/AhsanRazaUK/React-App-With-AzureAD React-App-With-AzureAD
 cd React-App-With-AzureAD
 ```
+### Step by step
+
+https://ahsanshares.wordpress.com/2019/10/14/react-azure-ad-authentication/
+
 ## Authors
 
 * **Ahsan Raza** 
