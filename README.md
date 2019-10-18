@@ -3,7 +3,7 @@
 ### Prerequisites
 
 *	Visual Studio (I’ve used 2019)
-*	Microsoft Azure Account (Free sign on (https://azure.microsoft.com/en-us/free/) if you don’t have one)
+*	Microsoft Azure Account (<a href='https://azure.microsoft.com/en-us/free/'>Free sign-on</a> if you don’t have one)
 *	Basic understanding of React (In case you are newbie)
 
 ### Use this repository
@@ -18,7 +18,7 @@ https://ahsanshares.wordpress.com/2019/10/14/react-azure-ad-authentication/
 
 ## Authors
 
-* **Ahsan Raza** 
+* **<a href='https://ahsanshares.wordpress.com'>Ahsan Raza</a>**
 
 ## License
 
