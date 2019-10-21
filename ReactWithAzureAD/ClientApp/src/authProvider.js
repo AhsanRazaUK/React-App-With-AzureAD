@@ -15,5 +15,5 @@ export const authProvider = new MsalAuthProvider(
         scopes: ['https://graph.microsoft.com/.default']
     },
 
-    LoginType.Redirect
+    LoginType.Popup
 );
